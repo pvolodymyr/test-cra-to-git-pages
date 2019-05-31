@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test-cra-to-git-pages/static/css/main.34de6062.chunk.css",
+    "main.js": "/test-cra-to-git-pages/static/js/main.2abc3b74.chunk.js",
+    "main.js.map": "/test-cra-to-git-pages/static/js/main.2abc3b74.chunk.js.map",
+    "runtime~main.js": "/test-cra-to-git-pages/static/js/runtime~main.64f3746f.js",
+    "runtime~main.js.map": "/test-cra-to-git-pages/static/js/runtime~main.64f3746f.js.map",
+    "static/js/2.ca4fedf9.chunk.js": "/test-cra-to-git-pages/static/js/2.ca4fedf9.chunk.js",
+    "static/js/2.ca4fedf9.chunk.js.map": "/test-cra-to-git-pages/static/js/2.ca4fedf9.chunk.js.map",
+    "index.html": "/test-cra-to-git-pages/index.html",
+    "precache-manifest.2ab8fe3dea3b064bb13b45c2610f2fe9.js": "/test-cra-to-git-pages/precache-manifest.2ab8fe3dea3b064bb13b45c2610f2fe9.js",
+    "service-worker.js": "/test-cra-to-git-pages/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/test-cra-to-git-pages/static/css/main.34de6062.chunk.css.map"
+  }
+}
